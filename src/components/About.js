@@ -1,7 +1,8 @@
+import React from "react";
 function About(props){
     return(
         <aside>
-            <img src={image}/>
+         <img src={props.image}/>
             <p>{props.about}</p>
         </aside>
     )

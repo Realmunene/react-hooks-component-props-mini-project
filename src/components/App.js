@@ -11,7 +11,7 @@ function App() {
       blogalt="blog logo"
       about={blogData.about}
       />
-      <ArticleList posts={blogData.posts}/>
+      <ArticleList/>
     </div>
   );
 }

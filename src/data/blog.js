@@ -1,4 +1,4 @@
-import logo from "../assets/logo.svg";
+import logo from "../assets/jo.jpg";
 
 const blogData = {
   name: "Underreacted",
